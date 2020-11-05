@@ -1,0 +1,1 @@
+create file if not creared and Text is written on file.txt file
